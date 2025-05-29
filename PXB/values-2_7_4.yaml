@@ -48,6 +48,7 @@
   postInstallJob: 
     sslEnabled: true
   pxbackup: 
+    skipValidations: true
     enabled: true
     orgName: "default"
     callHome: true
